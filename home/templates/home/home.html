@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block extra_title %}{% endblock %}
+
+{% block content %}
+<!-- Main Container -->
+<div class="contaienr">
+    <!-- About us section -->
+    {% include 'includes/home/about.html' %}
+    <!-- Gallery us section -->
+    {% include 'includes/home/gallery.html' %}
+    <!-- Contact us section -->
+    {% include 'includes/home/contact.html' %}
+</div>
+{% endblock %}
