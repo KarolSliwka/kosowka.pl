@@ -1,0 +1,13 @@
+/* Base */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap");
+@import "./colors";
+@import "base/base";
+/* Layout */
+@import "layout/navbar/navbar";
+@import "layout/footer/footer";
+/* Pages */
+@import "../home/static/scss/home";
+@import "../gallery/static/scss/gallery";
+@import "../booking/static/scss/booking";
+/* Admin */
+@import "admin/admin";
