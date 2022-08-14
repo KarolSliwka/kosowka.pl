@@ -1,0 +1,14 @@
+[
+    {
+        "pk": 1,
+        "model": "home.",
+        "fields": {
+            "main_title": "O Nas",
+            "main_image": "",
+            "first_title": "Lokalizacja",
+            "first_paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, perspiciatis id earum eius blanditiis culpa voluptatem, error ex dicta recusandae officia eligendi suscipit nemo sed temporibus debitis iste. Recusandae, quia.",
+            "second_title": "Dostpęność",
+            "second_paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, perspiciatis id earum eius blanditiis culpa voluptatem, error ex dicta recusandae officia eligendi suscipit nemo sed temporibus debitis iste. Recusandae, quia."
+        }
+    }
+]
